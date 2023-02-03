@@ -1,0 +1,1 @@
+.\whirlpool\Scripts\Activate.ps1
