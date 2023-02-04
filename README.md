@@ -1,6 +1,6 @@
 ## Whirlpool
 
-A command-line tool for converting **png** format files into **ico** format files in batches.
+A command-line tool for converting **png ico jpg** format files into **png ico jpg** format files in batches.
 
 *version 0.1.0*
 
